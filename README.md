@@ -4,8 +4,8 @@
 
 
 This Python Notebook is for PDF invoice processing, which includes:
-  *Split the PDF into invididual file
-  *Rename the PDF file using with information on first page
+  -Split the PDF into invididual file
+  -Rename the PDF file using with information on first page
 
 
 
