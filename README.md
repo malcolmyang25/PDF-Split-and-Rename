@@ -2,11 +2,7 @@
 
 #### The PDF information page extract is using the Tesseract. 
 
-
-This Python Notebook is for PDF invoice processing, which includes:
- -Split the PDF into invididual file
- -Rename the PDF file using with information on first page
-
+This Python Notebook is for PDF invoice processing, which includes Split the PDF into invididual file and Rename the PDF file using with information on first page
 
 
 ----------------------------------------------------
